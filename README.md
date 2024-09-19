@@ -27,7 +27,7 @@
 
 <p align="left">
 <a href="https://instagram.com/yera.vibe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yera.vibe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kaitosenpa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaitosenpa1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@KaitoSenpa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaitosenpa1" height="30" width="40" /></a>
 <a href="https://discord.gg/kaito.yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaito.yt" height="30" width="40" /></a>
 </p>
 
