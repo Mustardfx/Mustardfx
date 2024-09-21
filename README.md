@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello 👋, I'm Yera</h1>
 <h3 align="center">A passionate frontend developer and good Editor from Kazakhstan</h3>
 <img align="right" width="450px" src="https://i.pinimg.com/originals/9b/da/90/9bda90c406615bfb08c1deee5eac12f0.gif" alt="**Anime Scene**">
