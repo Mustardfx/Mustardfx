@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Yera</h1>
 <h3 align="center">A passionate frontend developer and good Editor from Kazakhstan</h3>
 <img align="right" width="450px" src="https://i.pinimg.com/originals/9b/da/90/9bda90c406615bfb08c1deee5eac12f0.gif" alt="**Anime Scene**">
-<img src="https://camo.githubusercontent.com/33a31e356571ad6032326cadd4834741835bfd82c3c360a38cd3e8430f0af539/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a7573742d7361696e266c61796f75743d646f6e7574267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-sain&amp;layout=donut&amp;theme=radical" style="max-width: 100%;"> 
+<img src="https://camo.githubusercontent.com/33a31e356571ad6032326cadd4834741835bfd82c3c360a38cd3e8430f0af539/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a7573742d7361696e266c61796f75743d646f6e7574267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mustardfx&show_icons=true&locale=en" style="max-width: 100%;"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustardfx&label=Profile%20views&color=0e75b6&style=flat" alt="mustardfx" /> </p>
 
 - 🔭 I’m currently working on **Several projects.**
