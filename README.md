@@ -36,6 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustardfx&show_icons=true&locale=en&layout=compact" alt="mustardfx" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustardfx&show_icons=true&locale=en" alt="mustardfx" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustardfx&" alt="mustardfx" /></p>
