@@ -5,10 +5,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mustardfx&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Mustardfx" style="max-width: 100%;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustardfx&label=Profile%20views&color=0e75b6&style=flat" alt="mustardfx" /> </p>
 
-- 🔭 I’m currently working on **Several projects.**
-
-- 🌱 I’m currently learning **React Native, Blender, Vue.js**
-
 - 👯 I'm also working on Freelance **Upwork**
 
 - 🤝 I’m looking for help with **More practice on real jobs 👾**
@@ -18,8 +14,6 @@
 - 💬 Ask me about **Python , JavaScript, After Effects, Adobe Photoshop**
 
 - 📫 How to reach me **abokaait29052007@gmail.com**
-
-- ⚡ Fun fact **I love to sleep 😴**
 
 [![MasterHead](https://i.pinimg.com/originals/15/55/12/155512299a145dc08c4c5695c166ff3a.gif)](https://rishavchanda.io)
 
