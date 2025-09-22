@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer and skilled editor from Kazakhstan</h3>
 
 <div align="center">
-  <img width="400" src="https://i.pinimg.com/originals/9b/da/90/9bda90c406615bfb08c1deee5eac12f0.gif" alt="Sakura Anime Scene">
+  
   <img width="450px" src="https://i.pinimg.com/originals/15/55/12/155512299a145dc08c4c5695c166ff3a.gif" alt="mustardfx" />
 </div>
 
