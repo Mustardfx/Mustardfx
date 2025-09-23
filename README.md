@@ -18,14 +18,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustardfx&theme=tokyonight" alt="Mustardfx" height="165">
 </p>
 
-## 👨‍💻 About Me
-
-- 🔭 I'm currently working on improving my development skills
-- 🌱 I'm learning advanced JavaScript and React techniques
-- 👨‍💻 All of my projects are available at [https://github.com/Mustardfx](https://github.com/Mustardfx)
-- 💬 Ask me about **Python, JavaScript, After Effects, Adobe Photoshop**
-- 📫 How to reach me: **abokaait29052007@gmail.com**
-
 ## 🤝 Connect With Me
 
 <p align="center">
