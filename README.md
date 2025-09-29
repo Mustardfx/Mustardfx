@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Yera</h1>
-<h3 align="center">A passionate frontend developer and skilled editor from Kazakhstan</h3>
+<h3 align="center">A passionate frontend & DevOps developer and skilled editor from Kazakhstan</h3>
 
 <div align="center">
   
